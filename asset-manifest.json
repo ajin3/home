@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.fe927caf.css",
+    "main.js": "/home/static/js/main.a48bd6ec.js",
+    "static/js/787.2e375d55.chunk.js": "/home/static/js/787.2e375d55.chunk.js",
+    "static/media/ajinsam.jpeg": "/home/static/media/ajinsam.40cb13cd78acfe7a700d.jpeg",
+    "static/media/SoriceLogo.png": "/home/static/media/SoriceLogo.3fb176f510604e47c004.png",
+    "index.html": "/home/index.html",
+    "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
+    "main.a48bd6ec.js.map": "/home/static/js/main.a48bd6ec.js.map",
+    "787.2e375d55.chunk.js.map": "/home/static/js/787.2e375d55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.a48bd6ec.js"
+  ]
+}
