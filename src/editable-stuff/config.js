@@ -138,9 +138,14 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: "Software Engineer", // Here Add Company Name
+      role: "Senior Software Engineer (MERN)",
+      companylogo: require("../assets/img/nesa-logo.png"),
+      date: "Oct 2024 – Present",
+    },
+    {
+      role: "Software Engineer",
       companylogo: require("../assets/img/expereal_logo_white_bg_black_text.png"),
-      date: "May 2023 – Present",
+      date: "May 2023 – Sep 2024",
     },
     {
       role: "Junior Software Engineer",
